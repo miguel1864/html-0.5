@@ -80,5 +80,10 @@
         <p><b>Estudiante:</b> Juan Miguel Pino Flórez</p>
         <p><b>Año:</b> 2026</p>
     </footer>
+
+</body>
+</html>
+        <p><b>Año:</b> 2026</p>
+    </footer>
 </body>
 </html>
